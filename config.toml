@@ -1,13 +1,13 @@
 ######################## default configuration ####################
 baseURL = "https://dadpeople.makeaconnect.com"
-title = "Timeframe"
+title = "I See Dad People Blog"
 theme = "timeframe"
 # post pagination
 paginate = "4"
 # post excerpt
 summaryLength = "10"
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "UA-179587270-2" # example : UA-123-45
 # disqus short name
 disqusShortname = "#" # get your shortname form here : https://disqus.com
 # disable language
@@ -55,30 +55,21 @@ link = "plugins/masonry/masonry.min.js"
 ############################## navigation ###############################
 
 # main menu
-[[menu.main]]
-name = "Homepage"
-URL = "http://demo.themefisher.com/timeframe-hugo/homepage-1/"
-weight = 1
 
 [[menu.main]]
-name = "About"
-URL = "about"
-weight = 2
+#name = "About"
+#URL = "about"
+#weight = 2
 
 [[menu.main]]
-name = "Portfolio"
-URL = "portfolio"
+#name = "Portfolio"
+#URL = "portfolio"
+#weight = 3
+
+[[menu.main]]
+name = "Our Podcast"
+URL = "https://iseedadpeople.com/"
 weight = 3
-
-[[menu.main]]
-name = "Contact"
-URL = "contact"
-weight = 4
-
-[[menu.main]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 5
 
 # footer menu
 [[menu.footer]]
@@ -87,19 +78,9 @@ URL = "/"
 weight = 1
 
 [[menu.footer]]
-name = "About"
-URL = "about"
-weight = 2
-
-[[menu.footer]]
-name = "Portfolio"
-URL = "portfolio"
+#name = "Our Podcast"
+URL = "https://iseedadpeople.com/"
 weight = 3
-
-[[menu.footer]]
-name = "Privacy Policy"
-URL = "privacy-policy"
-weight = 4
 
 [[menu.footer]]
 name = "Contact"
@@ -109,14 +90,14 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png"
+logo = "images/logo.png?gshs"
 # Meta data
-description = "This is meta description"
+description = "Stephen and Eugene’s objective is to help Dads by giving them a voice to provide advice; while also building a community of support. Advice which originates from experience helps - particularly when it resonates with your own situation."
 author = "Themefisher"
 # contact info
 address = "1901 Thornridge Cir. Shiloh, Hawaii 81063<br>Hilton Head Island,<br>South Carolina(SC), 29928"
 mobile = "+211234565523"
-email = "info@email.com"
+email = "contact@iseedadpeople.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
 # search
@@ -125,7 +106,7 @@ search = true
 # banner
 [params.banner]
 enable = true
-title = "I’m a Freelance Interactive Art Director based in Cuba. Focus across branding identity and solution In Society"
+title = "Giving Dads have a voice to provide advice, build communities of support from REAL experiences"
 bg_image = "images/banner.png"
 
 # layout
@@ -149,7 +130,7 @@ access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1Nmpx
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"
@@ -159,27 +140,17 @@ map_marker = "images/marker.png"
 [[params.social]]
 title = "facebook"
 icon = "fa-facebook" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://www.facebook.com/I-See-Dad-People-114220250372538"
 
 [[params.social]]
 title = "twitter"
 icon = "fa-twitter" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://twitter.com/wearedadpeople"
 
 [[params.social]]
 title = "instagram"
 icon = "fa-instagram" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "github"
-icon = "fa-github" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
-
-[[params.social]]
-title = "linkedin"
-icon = "fa-linkedin" # fontawesome icon pack v4.7 : https://fontawesome.com/v4.7.0/icons/
-link = "#"
+link = "https://www.instagram.com/iseedadpeople_official/"
 
 
 ################################### English language #####################################
@@ -189,14 +160,4 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 # copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
-
-
-################################### French language #####################################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-# copyright
-copyright = "Designed By [Themefisher](https://themefisher.com/) & Developed By [Gethugothemes](https://gethugothemes.com/)"
+copyright = "Designed By [I See Dad People](https://iseeddpeople.com/) & Developed By [Stephen Morrissey](https://stephenmorrissey.me/)"

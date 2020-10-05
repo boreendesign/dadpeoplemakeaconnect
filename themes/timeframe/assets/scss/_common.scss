@@ -3,6 +3,14 @@ body {
   overflow-x: hidden;
 }
 
+.logo{
+
+  img{
+    width:120px;
+  }
+
+}
+
 ::selection {
   background: lighten($color: $primary-color, $amount: 10);
   color: $white;

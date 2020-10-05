@@ -90,6 +90,9 @@ body {
   background-color: #fff;
   overflow-x: hidden; }
 
+.logo img {
+  width: 120px; }
+
 ::selection {
   background: #1a1a1a;
   color: #fff; }
