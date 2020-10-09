@@ -106,7 +106,7 @@ search = true
 # banner
 [params.banner]
 enable = true
-title = "Giving Dads have a voice to provide advice, build communities of support from REAL experiences"
+title = "Giving Dads a voice to provide advice and build communities of support from REAL experiences"
 bg_image = "images/banner.png"
 
 # layout
