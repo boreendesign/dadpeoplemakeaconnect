@@ -225,6 +225,9 @@ textarea.form-control {
     box-shadow: none;
     border: none; }
 
+.card a {
+  text-align: center; }
+
 .navigation {
   background-color: #fff; }
   @media (max-width: 991px) {
