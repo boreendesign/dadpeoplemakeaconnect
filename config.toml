@@ -9,7 +9,7 @@ summaryLength = "10"
 # google analytics
 googleAnalytics = "UA-179587270-2" # example : UA-123-45
 # disqus short name
-disqusShortname = "#" # get your shortname form here : https://disqus.com
+disqusShortname = "dadpeople-makeaconnect-com" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = [] # desable language from here
 
@@ -93,10 +93,10 @@ weight = 5
 logo = "images/dadpeople.png?gshs"
 # Meta data
 description = "Stephen and Eugene’s objective is to help Dads by giving them a voice to provide advice; while also building a community of support. Advice which originates from experience helps - particularly when it resonates with your own situation."
-author = "Themefisher"
+author = ""
 # contact info
-address = "1901 Thornridge Cir. Shiloh, Hawaii 81063<br>Hilton Head Island,<br>South Carolina(SC), 29928"
-mobile = "+211234565523"
+address = ""
+mobile = ""
 email = "contact@iseedadpeople.com"
 # contact form action
 contact_form_action = "#" # contact form works with https://formspree.io
@@ -125,7 +125,7 @@ preloader = "" # use jpg, png, svg or gif format.
 
 # Instagram feed
 [params.instafeed]
-enable = true
+enable = false
 access_token = "IGQVJYeUk4YWNIY1h4OWZANeS1wRHZARdjJ5QmdueXN2RFR6NF9iYUtfcGp1NmpxZA3RTbnU1MXpDNVBHTzZAMOFlxcGlkVHBKdjhqSnUybERhNWdQSE5hVmtXT013MEhOQVJJRGJBRURn"
 
 # google map
