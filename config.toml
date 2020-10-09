@@ -90,7 +90,7 @@ weight = 5
 
 #################### default parameters ################################
 [params]
-logo = "images/logo.png?gshs"
+logo = "images/dadpeople.png?gshs"
 # Meta data
 description = "Stephen and Eugene’s objective is to help Dads by giving them a voice to provide advice; while also building a community of support. Advice which originates from experience helps - particularly when it resonates with your own situation."
 author = "Themefisher"

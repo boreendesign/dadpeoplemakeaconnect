@@ -91,7 +91,7 @@ body {
   overflow-x: hidden; }
 
 .logo img {
-  width: 120px; }
+  width: 150px; }
 
 ::selection {
   background: #1a1a1a;
@@ -210,11 +210,12 @@ textarea.form-control {
   height: 150px !important;
   padding: 20px 0 !important; }
 
-@media (max-width: 991px) {
-  .navigation {
-    background-color: #fff;
-    z-index: 1; } }
-
+.navigation {
+  background-color: #fff; }
+  @media (max-width: 991px) {
+    .navigation {
+      background-color: #fff;
+      z-index: 1; } }
 .navbar-nav {
   flex-direction: row; }
   @media (max-width: 991px) {
@@ -293,6 +294,8 @@ textarea.form-control {
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center; }
+  .banner h1 {
+    color: white; }
 
 .social-icons a {
   height: 40px;

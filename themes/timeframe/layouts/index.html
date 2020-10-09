@@ -2,7 +2,7 @@
 <!-- banner -->
 {{ if .Site.Params.banner.enable }}
 {{ with .Site.Params.banner }}
-<section class="banner mb-5" style="background-image: url('{{ .bg_image | absURL }}');">
+<section class="banner mb-5" style="background-color:#004AAD;">
   <div class="container">
     <div class="row">
       <div class="col-lg-10 mx-auto text-center">
@@ -30,7 +30,7 @@
       <div class="col-lg-5 col-sm-6">
         <article class="card">
           {{ if .Params.image }}
-          <img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="card-img-top">
+          <a href="{{ .Permalink }}"><img src="{{ .Params.image | absURL }}" alt="{{ .Title }}" class="card-img-top"></a>
           {{ end }}
           <div class="card-body text-center">
             <ul class="card-meta">
