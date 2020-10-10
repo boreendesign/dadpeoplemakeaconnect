@@ -30,7 +30,7 @@ h1, h2, h3, h4, h5, h6 {
   line-height: 1.2; }
 
 h1, .h1 {
-  font-size: 48px; }
+  font-size: 28px; }
 
 h2, .h2 {
   font-size: 28px;
@@ -308,7 +308,7 @@ textarea.form-control {
   font-size: 20px; }
 
 .banner {
-  padding: 160px 0 80px;
+  padding: 120px 0 30px;
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center; }
