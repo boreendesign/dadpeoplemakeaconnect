@@ -14,13 +14,12 @@ description: "This is meta description."
 draft: false
 ---
 
-30 Minutes is only 2% of your whole day. 
 
 What exactly does this mean? Let’s break this down.
 
 Everyone has their own unique situations; some people have more; some people have less -- there are so many layers we can go into for what differentiates us on so many levels.
 
-But what do we all have in common - 24 hours!! We all get 24 hours. 
+But what do we all have in common - **24 hours!!** We all get 24 hours. 
 
 Have you ever sat down at the end of the day and thought to yourself - where has the time gone?  I know I have - and I still do!
 
@@ -28,7 +27,10 @@ One area of life I strive in is troubleshooting and I try to apply solutions to 
 
 Not knowing where your time is going is a problem for me and so it was time for a solution.  I decided to look at what I have and then logged everything I did over 24 hours.
 
-My 24 hours is 100%!
+**My 24 hours is 100%!**  
+![My 24 hours is 100%!](https://cdn.pixabay.com/photo/2016/02/10/08/49/neon-1191281_960_720.jpg)
+
+
 
 I took everything I did for that 24 hours and turned them into percentages! Let’s go!
 
@@ -44,9 +46,11 @@ I used to commute 3 hours daily for work purposes - so understanding a lot of pe
 
 This is where a lot of us lose time. Where we have a choice.  Where you have time for you.
 
-What you do with your remaining percentage is totally up to you.
+What you do with your remaining percentage is totally up to you.  
+ 
+**For me personally for me it is a workout - I block out everything and workout solid for an hour.**
 
-For me personally for me it is a workout - I block out everything and workout solid for an hour.  
+![For me personally for me it is a workout - I block out everything and workout solid for an hour](https://cdn.pixabay.com/photo/2014/12/20/09/18/running-573762_960_720.jpg)
 
 Other days I can use it for mindfulness or just sitting and breathing for a while. 
 
