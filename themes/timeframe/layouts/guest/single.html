@@ -38,7 +38,7 @@
 					<h2 class="section-title">{{ i18n "posted_by" }}</h2>
 				</div>
 			</div>
-			{{ range where .Site.RegularPages "Params.author" .Title }}
+			{{ range where .Site.RegularPages "Params.guest" .Title }}
 			<div class="col-lg-5 col-sm-6">
         <article class="card">
           {{ if .Params.image }}

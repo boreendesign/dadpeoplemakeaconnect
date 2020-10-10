@@ -73,7 +73,7 @@ weight = 3
 
 [[menu.main]]
 name = "Our Guest Writers"
-URL = "/author"
+URL = "/guest"
 weight = 3
 
 # footer menu

@@ -4,7 +4,7 @@ date: 2020-04-10T12:14:34+06:00
 # post thumb
 image: "images/post/twoforks.png"
 # author
-author: "Stephen Morrissey" # use capitalize
+guest: "Stephen Morrissey" # use capitalize
 # taxonomies
 categories: ["Food"]
 tags: ["health", "food","kids"]

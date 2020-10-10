@@ -4,7 +4,7 @@ date: 2020-04-10T12:14:34+06:00
 # post thumb
 image: "images/post/30mins.png"
 # author
-author: "Eugene Breen" # use capitalize
+guest: "Eugene Breen" # use capitalize
 # taxonomies
 categories: ["Mental Health"]
 tags: ["fitness", "mental health","health"]
@@ -13,6 +13,7 @@ description: "This is meta description."
 # save as draft
 draft: false
 ---
+
 30 Minutes is only 2% of your whole day. 
 
 What exactly does this mean? Let’s break this down.

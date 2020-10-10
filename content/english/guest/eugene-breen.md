@@ -1,6 +1,6 @@
 ---
 title: "Eugene Breen"
-image: "/images/author/eugene.jpeg"
+image: "/images/guest/eugene.jpeg"
 social:
   - icon : "fa-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "https://www.facebook.com/I-See-Dad-People-114220250372538"

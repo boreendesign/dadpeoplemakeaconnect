@@ -1,6 +1,6 @@
 ---
 title: "Stephen Morrissey"
-image: "/images/author/steve.jpg"
+image: "/images/guest/steve.jpg"
 social:
   - icon : "fa-facebook" # themify icon pack : https://themify.me/themify-icons
     link : "https://www.facebook.com/I-See-Dad-People-114220250372538"
