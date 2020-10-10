@@ -55,24 +55,4 @@
   </div>
 </section>
 
-{{ if .Site.Params.map.enable }}
-{{ with .Site.Params.map }}
-<section>
-  <div class="container">
-    <div class="row py-5 justify-content-center border-top border-default">
-      <div class="col-lg-3 col-md-4">
-        <h2>{{ i18n "map" }}</h2>
-      </div>
-      <div class="col-lg-7 col-md-8">
-        <div style="height:400px;" id="map_canvas" data-latitude="{{.map_latitude}}"
-          data-longitude="{{.map_longitude}}" data-marker="{{.map_marker | absURL}}"
-          data-marker-name="{{ $.Site.Title }}">
-        </div>
-      </div>
-    </div>
-  </div>
-</section>
-{{ end }}
-{{ end }} 
-
 {{ end }}

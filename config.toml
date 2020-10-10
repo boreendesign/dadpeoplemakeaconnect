@@ -71,6 +71,11 @@ name = "Our Podcast"
 URL = "https://iseedadpeople.com/"
 weight = 3
 
+[[menu.main]]
+name = "Our Guest Writers"
+URL = "/author"
+weight = 3
+
 # footer menu
 [[menu.footer]]
 name = "Home"

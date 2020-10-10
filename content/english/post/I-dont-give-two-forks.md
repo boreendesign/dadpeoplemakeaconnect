@@ -7,7 +7,7 @@ image: "images/post/twoforks.png"
 author: "Stephen Morrissey" # use capitalize
 # taxonomies
 categories: ["Food"]
-tags: ["Health", "food","kids"]
+tags: ["health", "food","kids"]
 # meta description
 description: "The challenge of getting your kid to eat and at the same time not giving them eating problems."
 # save as draft
